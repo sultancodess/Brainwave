@@ -25,11 +25,3 @@ A **cutting-edge, responsive AI platform** built with **React.js**, **Tailwind C
 - **Animations:** Framer Motion  
 - **Icons:** Lucide React Icons  
 
----
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/bainwave-ai-platform.git
-cd bainwave-ai-platform
