@@ -6,7 +6,7 @@ A **cutting-edge, responsive AI platform** built with **React.js**, **Tailwind C
 
 ## 🖥️ Live Demo  
 👉 [**Explore the Live Demo** 🚀](https://brainwavey.netlify.app/)  
-Experience the future of AI-powered design and
+
 
 ---
 
